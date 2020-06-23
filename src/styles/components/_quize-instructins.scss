@@ -1,0 +1,84 @@
+.instructions{
+    border:2px solid grey;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 50px;
+    padding-left:50px ;
+    margin-bottom: 20px;
+
+h1{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.lifeline{
+  position: relative;
+  top: -3px;
+
+}
+
+.browser-default{
+    padding-left:30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+img{
+    width: 80%;
+    height: 50%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+.left{
+    
+    background-color: red;
+    
+    
+}
+
+.right{
+    margin-left: 500px;
+    background-color:green;
+}
+
+.link-l{
+    color: white;
+    padding: 20px;
+}
+
+.link-r{
+    color: white;
+    padding: 20px;
+}
+
+}
+
+
+@media(max-width:770px){
+
+    .instructions{
+      margin: 10px;
+      
+        
+        
+       
+   .instructions img{
+       width: 100%;
+   } 
+
+   .right{
+       
+    margin-left:0px;
+    background-color:green;
+   
+  
+}
+.left{
+    margin-right:150px;
+}
+
+}
+}

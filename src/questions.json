@@ -1,0 +1,91 @@
+[
+    {
+    "question":"Who is Gurpreet chawla ?",
+    "optionA" :"Web developer",
+    "optionB" :"Photographer",
+    "optionC" :"Content writer",
+    "optionD" :"Data scientist",
+    "answer":"Web developer"
+},
+
+{
+    "question":"What is Gurpreet chawla's age ? ",
+    "optionA" :"20yr",
+    "optionB" :"21yr",
+    "optionC" :"22yr",
+    "optionD" :"23yr",
+    "answer":"23yr"
+},
+
+{
+    "question":"What is Gurpreet chawla's religion ?",
+    "optionA" :"Hindu",
+    "optionB" :"Muslim",
+    "optionC" :"Sikh",
+    "optionD" :"Christian",
+    "answer":"Sikh"
+},
+
+{
+    "question":"Who is Gurpreet's mother ?",
+    "optionA" :"Mrs.Inderjeet chawla",
+    "optionB" :"Mrs.Rajinder chawla",
+    "optionC" :"Mrs.Manmeet chawla",
+    "optionD" :"Mrs.Juhi chawla",
+    "answer":"Mrs.Inderjeet chawla"
+},
+
+{
+    "question":"Height of Gurpreet chawla?",
+    "optionA" :"5.4ft",
+    "optionB" :"5.6ft",
+    "optionC" :"5.7ft",
+    "optionD" :"5.5ft",
+    "answer":"5.6ft"
+},
+
+{
+    "question":"Weight of Gurpreet chawla?",
+    "optionA" :"55kg",
+    "optionB" :"56kg",
+    "optionC" :"57kg",
+    "optionD" :"58kg",
+    "answer":"57kg"
+},
+
+{
+    "question":"Gurpreet chawla's colleges?",
+    "optionA" :"G.L Bajaj",
+    "optionB" :"Galgotias university",
+    "optionC" :"Amity university",
+    "optionD" :"Lovely Profesional University",
+    "answer":"Galgotias university"
+},
+
+{
+    "question":"When is Gurpreet Chawla's birthday?",
+    "optionA" :"23rd may 1997",
+    "optionB" :"25th may 1997",
+    "optionC" :"30th may 1997",
+    "optionD" :"27th may 1997",
+    "answer":"30th may 1997"
+},
+
+{
+    "question":"Where is Gurpreet Chawla from?",
+    "optionA" :"Rudrapur",
+    "optionB" :"Greater Noida",
+    "optionC" :"Bareilly",
+    "optionD" :"Delhi",
+    "answer":"Rudrapur"
+},
+
+{
+    "question":"Who is Gurpreet Chawla’s father?",
+    "optionA" :"Mr Harpreet Chawla",
+    "optionB" :"Mr. Kulvir Chawla",
+    "optionC" :"Mr.Jagjeet Chawla",
+    "optionD" :"Mr.Gurpreet Chawla",
+    "answer":"Mr. Kulvir Chawla"
+}
+]
