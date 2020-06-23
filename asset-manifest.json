@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/quizguru/static/css/main.784ce376.chunk.css",
+    "main.js": "/quizguru/static/js/main.d40d5e8e.chunk.js",
+    "main.js.map": "/quizguru/static/js/main.d40d5e8e.chunk.js.map",
+    "runtime-main.js": "/quizguru/static/js/runtime-main.8888019d.js",
+    "runtime-main.js.map": "/quizguru/static/js/runtime-main.8888019d.js.map",
+    "static/css/2.d408af97.chunk.css": "/quizguru/static/css/2.d408af97.chunk.css",
+    "static/js/2.4847d415.chunk.js": "/quizguru/static/js/2.4847d415.chunk.js",
+    "static/js/2.4847d415.chunk.js.map": "/quizguru/static/js/2.4847d415.chunk.js.map",
+    "index.html": "/quizguru/index.html",
+    "precache-manifest.1e455f6f500c7efeb602a1efb8a47862.js": "/quizguru/precache-manifest.1e455f6f500c7efeb602a1efb8a47862.js",
+    "service-worker.js": "/quizguru/service-worker.js",
+    "static/css/2.d408af97.chunk.css.map": "/quizguru/static/css/2.d408af97.chunk.css.map",
+    "static/css/main.784ce376.chunk.css.map": "/quizguru/static/css/main.784ce376.chunk.css.map",
+    "static/js/2.4847d415.chunk.js.LICENSE.txt": "/quizguru/static/js/2.4847d415.chunk.js.LICENSE.txt",
+    "static/media/Wrong-answer.mp3": "/quizguru/static/media/Wrong-answer.c9afcc9e.mp3",
+    "static/media/instruction.png": "/quizguru/static/media/instruction.3fa111b0.png",
+    "static/media/materialdesignicons.min.css": "/quizguru/static/media/materialdesignicons-webfont.dc85ceeb.woff2",
+    "static/media/styles.scss": "/quizguru/static/media/quize.b9f9fcc1.png",
+    "static/media/next.mpeg": "/quizguru/static/media/next.90a6d5af.mpeg",
+    "static/media/right-answer.mpeg": "/quizguru/static/media/right-answer.86576bb5.mpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8888019d.js",
+    "static/css/2.d408af97.chunk.css",
+    "static/js/2.4847d415.chunk.js",
+    "static/css/main.784ce376.chunk.css",
+    "static/js/main.d40d5e8e.chunk.js"
+  ]
+}
