@@ -7,6 +7,8 @@ const Home = () =>(
     <Fragment>
         <Helmet><title> QuizeGuru - Home </title> </Helmet>
        <div id="home">
+      
+      
         <section>
             <div style={{textAlign:'center'}}>
                 <span className="mdi mdi-cube-outline cube mdi-48px "></span>
@@ -20,11 +22,12 @@ const Home = () =>(
             </div>
             <div className="auth-container">
                 <Link to="/login" className="auth-buttons" id="login-button">LogIN</Link>
-                <Link to="/register" className="auth-buttons" id="signup-button">SignUP</Link>
+                <a id="signup-button" href={"https://gurpreet-chawla.github.io/honey" }>BACK</a>
             </div>
-            
+           
         </section>
         </div>
+        
         </Fragment>
     );
 export default Home;
